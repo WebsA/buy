@@ -66,10 +66,11 @@
     color: #3D3D3D;
     margin-bottom: 0.4rem;
 }
-.zysx p{
+div.zysx p{
     font-size: 0.26rem;
+    color: #595959;
 }
-.zysx img{
+zysx img{
     width: 100%;
     display: block;
     margin-top: 0.1rem;
