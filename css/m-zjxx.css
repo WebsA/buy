@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    width:100%;
+    height:100%;
+    background:#F2F2F2;
+}
+/*头部*/
+.m-header{
+    width:100%;
+    height:0.88rem;
+    background: linear-gradient(to left,#31c7ff,#32abff);
+    position:relative;
+}
+.m-header span{
+    display: block;
+    text-align: center;
+    line-height:0.88rem;
+    color:#DCF4FF;
+    font-size:0.4rem;
+}
+.m-header a{
+    display: block;
+    width:0.8rem;
+    height:100%;
+    position:absolute;
+    left:0;
+    top:0;
+    line-height:0.88rem;
+    text-align: center;
+    font-size:0.5rem;
+    font-weight: 700;
+    color:#DEEBF4;
+    font-family:'宋体' ;
+}
+/*专家信息*/
+.m-message{
+    width:100%;
+    height:auto;
+    overflow: hidden;
+}
+.m-message .m-imgbox{
+    width:1.04rem;
+    height:1.04rem;
+    margin:0.2rem auto;
+    border-radius: 50%;
+    background:red;
+}
+.m-message h4{
+    width:100%;
+    height:0.5rem;
+    color:#979797;
+    line-height:0.5rem;
+    font-size:0.46rem;
+    font-weight: normal;
+    text-align: center;
+}
+.m-message h5{
+    width:100%;
+    height:0.4rem;
+    color:#646464;
+    line-height:0.4rem;
+    font-size:0.36rem;
+    font-weight: normal;
+    text-align: center;
+}
+.m-message h5:nth-child(3){
+    margin-top:0.2rem;
+}
+.m-message p{
+    width:100%;
+    height:0.4rem;
+    margin-top:0.2rem;
+    color:#989898;
+    line-height:0.4rem;
+    font-size:0.36rem;
+    font-weight: normal;
+    text-align: center;
+}
+.m-message .m-click{
+    width:4.32rem;
+    height:0.74rem;
+    margin:0.3rem auto;
+}
+.m-message .m-click button{
+    width:1.92rem;
+    height:100%;
+    margin:0 0.12rem;
+    float:left;
+    background:#34C2FF;
+    border-radius: 0.1rem;
+    border:0.02rem solid #34C2FF;
+    outline: none;
+    color:#DEF5FF;
+    font-size:0.3rem;
+}
+.m-message .m-click button:last-child{
+    background:#F2F2F2;
+    color:#34C2FF;
+}
+.expert{
+    width:7.02rem;
+    height:3rem;
+    background:#fff;
+    margin:0 auto;
+    border-radius: 0.2rem;
+    box-shadow: 0 0 0.04rem 0.01rem #d8d8d8;
+    overflow: hidden;
+}
+.expert .expert-top{
+    width:6.62rem;
+    height:0.64rem;
+    background:red;
+    margin:0.1rem auto;
+}
+.expert .expert-top img{
+    width:0.64rem;
+    height:100%;
+    float:left;
+    background:yellow;
+    border-radius: 50%;
+    border:0.02rem solid #E9E9E9;
+    box-sizing: border-box;
+}

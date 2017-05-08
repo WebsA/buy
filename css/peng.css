@@ -3,10 +3,7 @@
     width: 100%;
     height: 4.8rem;
     overflow: hidden;
-<<<<<<< HEAD
     position: relative;
-=======
->>>>>>> e774235e10cb4064139b0fc937a4793ba2bb8a9e
 }
 .top img{
     width: 100%;
@@ -62,10 +59,7 @@
     height: auto;
     padding:0.1rem 0.3rem;
     box-sizing: border-box;
-<<<<<<< HEAD
     margin-bottom: 0.98rem;
-=======
->>>>>>> e774235e10cb4064139b0fc937a4793ba2bb8a9e
 }
 .zysx h6{
     font-size: 0.3rem;
@@ -91,12 +85,9 @@ body{
     padding: 0 0.33rem;
     display: flex;
     box-sizing: border-box;
-<<<<<<< HEAD
     position: fixed;
     left: 0;
     bottom: 0;
-=======
->>>>>>> e774235e10cb4064139b0fc937a4793ba2bb8a9e
 }
 .bottom div{
     width: 25%;
@@ -109,7 +100,6 @@ body{
     display: block;
     float: right;
     margin-top: 0.35rem;
-<<<<<<< HEAD
 }
 .top a{
     color: #fff;
@@ -118,6 +108,4 @@ body{
     top: 0.5rem;
     font-size: 0.6rem;
     font-family:"宋体";
-=======
->>>>>>> e774235e10cb4064139b0fc937a4793ba2bb8a9e
 }
