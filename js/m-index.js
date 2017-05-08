@@ -40,6 +40,6 @@ $(function(){
 //    好友添加
     var friend = new Hammer($('.m-header b').get(0));
     friend.on('tap', function () {
-        location.href = 'X-message.html';
+        location.href = 'https://htmlpreview.github.io/?https://github.com/WebsA/buy/blob/master/X-message.html';
     });
 });
